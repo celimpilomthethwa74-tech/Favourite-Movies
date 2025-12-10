@@ -1,0 +1,19 @@
+#H1{ color: blue;
+    align-items:center
+
+}
+#H2{
+    color: red;
+    align-items: center;
+}
+#H3{
+    color: red;
+    align-items: center;
+}
+#H4{
+    color: red;
+    align-self:center;
+}
+#B1{
+    background-color: green;
+}
